@@ -1,6 +1,6 @@
 
 const container = document.querySelector('.container')
-const unsplashURL = 'https://source.unsplash.com/random/'
+const unsplashURL = 'https://unsplash.com/s/photos/random'
 const rows = 5
 
 for(let i = 0; i < rows * 3; i++) {
